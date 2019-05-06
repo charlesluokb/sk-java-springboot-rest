@@ -8,4 +8,4 @@ Below is a list of frameworks are used
 + Maven
 + Junit, and JMockit
 + Lombok
-+ Spring Boot, Spring Actuator, Spring Data JPA, and Spring Oauth2 Client
++ Spring Boot, Spring Actuator, and Spring Data JPA
