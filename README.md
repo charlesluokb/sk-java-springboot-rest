@@ -6,6 +6,16 @@ Below is a list of frameworks are used
 
 + Java 8 and above
 + Maven
-+ Junit, and JMockit
++ Junit, and Mockito
 + Lombok
 + Spring Boot, Spring Actuator, and Spring Data JPA
+
+### To Build and Run
+
+To build an executable jar
+`./mvnw clean package`
+
+To run the application
+`./mvnw spring-boot:run`
+
+### How to adapt this project
